@@ -12,7 +12,7 @@
 pip install -r requirements.txt
 ```
 
-### Run
+## Run
 ```python
 python run.py --input {number}
 ```
