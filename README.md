@@ -1,4 +1,4 @@
-# Python Zeckendorf Theorem
+# Python Zeckendorf's Theorem
 
 #### Theorem
 > In mathematics, Zeckendorf's theorem, named after Belgian mathematician Edouard Zeckendorf, is a theorem about the representation of integers as sums of Fibonacci numbers.
@@ -8,12 +8,12 @@
 [Zeckendorf's theorem](https://en.wikipedia.org/wiki/Zeckendorf%27s_theorem)
 
 ## Install
-```python
+```shell
 pip install -r requirements.txt
 ```
 
 ## Run
-```python
+```shell
 python run.py --input {number}
 ```
 
