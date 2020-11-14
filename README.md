@@ -18,4 +18,3 @@ python run.py --input {number}
 ```
 
 ![alt text](./img/demo.gif "Demo")
-s
