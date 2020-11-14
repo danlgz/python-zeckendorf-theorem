@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ### Run
 ```python
-python run --input {number}
+python run.py --input {number}
 ```
 
 ![alt text](./img/demo.gif "Demo")
